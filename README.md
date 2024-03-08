@@ -23,8 +23,7 @@ This is a simple Tic-Tac-Toe game implemented in React. It allows two players to
 
 ## Preview
 
-<img src='https://github.com/Niama001/tic-tac-toe/blob/b0a2de1a4dccd9684e2933a927c24c46f0c90831/tic-tac-toe.gif
-'/>
+<img src='https://github.com/Niama001/tic-tac-toe/blob/b0a2de1a4dccd9684e2933a927c24c46f0c90831/tic-tac-toe.gif'/>
 
 
 ## Technologies Used
