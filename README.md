@@ -25,9 +25,16 @@ This is a simple Tic-Tac-Toe game implemented in React. It allows two players to
 
 <img src='https://github.com/Niama001/tic-tac-toe/blob/b0a2de1a4dccd9684e2933a927c24c46f0c90831/tic-tac-toe.gif'/>
 
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with ScreenToGif
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Technologies Used
 
+- CodeSandBox
 - React
 - CSS
 
